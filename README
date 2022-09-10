@@ -1,3 +1,12 @@
 
 TIPS:
-- There is a Counter() mechanism in Collections which can be added and subtracted to find differences
+- There is a Counter() mechanism in Collections which can be added and subtracted to find differences. The Counter()
+  creates an object which counts the occurance of each unique character in a string.
+
+ - USING DICRIONARIES: you can use two dictionaries instead of one to make reverse mapping eaiser. To look things up,
+ use the "in" function similar to python lists.
+
+ - you can use the following three in a for - each python loop:
+        - range()
+        - enumerate() which allows you to keep track of the index and the iritable object of that index
+        - zip() which creates a tuple that you can use to keep track of 2 iritable variables.
