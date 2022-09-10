@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 bool isSubsequence(char * s, char * t){
     int length = strlen(t);
     if (length == 0 && strlen(s) == 0){
